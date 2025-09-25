@@ -33,8 +33,8 @@ import 'package:clashmi/screens/webview_helper.dart';
 import 'package:clashmi/screens/widgets/segmented_elevated_button.dart';
 import 'package:flutter/material.dart';
 import 'package:tuple/tuple.dart';
-import 'package:libclash_vpn_service/state.dart';
-import 'package:libclash_vpn_service/vpn_service.dart';
+import 'package:clashmi/stubs/libclash_vpn_service/state.dart';
+import 'package:clashmi/stubs/libclash_vpn_service/vpn_service.dart';
 
 class HomeScreenWidgetPart1 extends StatefulWidget {
   const HomeScreenWidgetPart1({super.key});

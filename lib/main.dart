@@ -32,7 +32,7 @@ import 'package:path/path.dart' as path;
 import 'package:path_provider/path_provider.dart';
 import 'package:provider/provider.dart';
 import 'package:tray_manager/tray_manager.dart';
-import 'package:libclash_vpn_service/vpn_service.dart';
+import 'package:clashmi/stubs/libclash_vpn_service/vpn_service.dart';
 import 'package:window_manager/window_manager.dart';
 import 'package:windows_single_instance/windows_single_instance.dart';
 

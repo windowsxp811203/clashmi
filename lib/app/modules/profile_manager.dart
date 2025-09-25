@@ -17,7 +17,7 @@ import 'package:clashmi/app/runtime/return_result.dart';
 import 'package:clashmi/app/utils/app_lifecycle_state_notify.dart';
 import 'package:clashmi/app/utils/download_utils.dart';
 import 'package:clashmi/app/utils/path_utils.dart';
-import 'package:libclash_vpn_service/state.dart';
+import 'package:clashmi/stubs/libclash_vpn_service/state.dart';
 import 'package:tuple/tuple.dart';
 
 const int kRemarkMaxLength = 32;
