@@ -5,7 +5,7 @@ import "dart:io";
 import "package:clashmi/app/utils/app_utils.dart";
 import "package:clashmi/app/utils/file_utils.dart";
 import "package:path/path.dart" as path;
-import "package:libclash_vpn_service/vpn_service.dart";
+import "package:clashmi/stubs/libclash_vpn_service/vpn_service.dart";
 
 class PathUtils {
   static String _appAssetsDir = "";
