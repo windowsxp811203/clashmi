@@ -93,9 +93,9 @@
 
 ### 致谢: Clash Mi 基于或受到这些项目的启发：
 
-- [flutter](https://flutter.dev/)：使构建美观应用变得轻松快捷.
-- [mihomo](https://github.com/MetaCubeX/mihomo)：另一款 clash核心.
-- [zashboard](https://github.com/Zephyruso/zashboard): 使用 Clash API 的仪表板.
+- [flutter](https://flutter.dev/)：使构建美观应用变得轻松快捷. (已集成: 核心UI框架)
+- [mihomo](https://github.com/MetaCubeX/mihomo)：另一款 clash核心. (已集成: 代理核心引擎)
+- [zashboard](https://github.com/Zephyruso/zashboard): 使用 Clash API 的仪表板. (已集成: Web管理界面)
 
 
 ### Karing Team:
